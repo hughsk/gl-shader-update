@@ -1,0 +1,35 @@
+{
+  "name": "gl-shader-update",
+  "version": "0.0.0",
+  "description": "Update the vertex/fragment sources of a shader instance created by gl-shader, gl-shader-core or glslify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "glsl-extract-sync": "0.0.0",
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/gl-shader-update.git"
+  },
+  "keywords": [
+    "glsl",
+    "shader",
+    "gl-shader",
+    "webgl",
+    "update",
+    "replace",
+    "fragment",
+    "vertex",
+    "program"
+  ],
+  "bugs": {
+    "url": "https://github.com/hughsk/gl-shader-update/issues"
+  },
+  "homepage": "https://github.com/hughsk/gl-shader-update"
+}
